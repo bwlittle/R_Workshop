@@ -1,6 +1,6 @@
 # R Workshop
 
-
+This is a test project to learn how to use the Git process for version control.
 
 
 EPA Disclaimer
